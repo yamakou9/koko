@@ -40,7 +40,7 @@
 <p>森林が失われると、土砂崩れの発生や水資源が枯渇する可能性があります。</p>
 <div class="pic_frame"><div align="center"><img src="https://github.com/yamakou9/koko/blob/main/img8.jpeg?raw=true" alt="薬" style="width:250px;height:250px;">
 <p>植物や菌類等の成分からつくられる医薬品の開発ができなくなる可能性があります。</p>
-<div style="text-align: left"><h2>　<span style="background-color:#ffcc99">生物多様性を守るために私たちにできること</h2></span>
+<div align="left"><h2>　<span style="background-color:#ffcc99">生物多様性を守るために私たちにできること</h2></span>
 <p><b>・食べ残し等の食品廃棄物を減らす</b>
 <br> 　日本で排出される食品廃棄物は年間約1,900万トンといわれています。食べ残しや買いすぎ、作りすぎをせずに食品廃棄物を減らすことは生態系サービスの部田遣いをなくし
 <br>　有効利用を進める大切な取り組みです。
