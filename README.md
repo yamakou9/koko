@@ -29,7 +29,7 @@
 <p><div align="center"><b>　第4の危機（地球環境の変化による危機）</b>
 <br><p>地球温暖化による気温や海面の上昇によって、様々な生物の分布地域や植物の開花時期、<br>昆虫の発生時期等に変化が生じると考えられています。</p>
 <img src="https://github.com/yamakou9/koko/blob/main/img4.jpeg?raw=true" alt="ライチョウ" style="width:450px;height:300px;"></div>
-<h2>生物多様性の損失による私たちへの影響</h2>
+<div align="left"><h2>生物多様性の損失による私たちへの影響</h2>
 生物多様性が損なわれると、食料や燃料等の衣食住に必要な素材が手に入らなくなったり<br>空気や水等がきれいな状態に保たれなくなったりすることで、
 現在と同様の生活が送れなくなる可能性があります。
 <p><div align="center"><div class="pic_frame"><img src="https://github.com/yamakou9/koko/blob/main/img5.jpeg?raw=true" alt="稲" style="width:250px;height:250px;">
