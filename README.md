@@ -31,7 +31,7 @@
 <img src="https://github.com/yamakou9/koko/blob/main/img4.jpeg?raw=true" alt="ライチョウ" style="width:450px;height:300px;"></div>
 <h2>生物多様性の損失による私たちへの影響</h2>
 生物多様性が損なわれると、食料や燃料等の衣食住に必要な素材が手に入らなくなったり、空気や水等がきれいな状態に保たれなくなったりすることで、
-<br>現在と同様の生活が送れなくなる可能性があります。
+現在と同様の生活が送れなくなる可能性があります。
 <p><div align="center"><div class="pic_frame"><img src="https://github.com/yamakou9/koko/blob/main/img5.jpeg?raw=true" alt="稲" style="width:250px;height:250px;">
 <p>食材の減少や偏り、価格の高騰、食料不足が生じる可能性があります。</p></div>
 <div class="pic_frame"><div align="center"><img src="https://github.com/yamakou9/koko/blob/main/img6.jpeg?raw=true" alt="ハチ" style="width:250px;height:250px;">
