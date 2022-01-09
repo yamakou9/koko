@@ -17,7 +17,7 @@
 <img src="https://github.com/yamakou9/koko/blob/main/img9.jpeg?raw=true" alt="種の絶滅速度" style="width:550px;height:350px;">
 <br>　　　　　　出典：ノーマン・マイヤーズ著「沈みゆく箱舟」（1981）<p>
 <h2>「人間がもたらしている生物多様性の4つの危機」</h2><p>
-<div style="text-align: center"><p><b>　第1の危機（開発や乱獲による危機）</b>
+<p><div style="text-align: center"><b>　第1の危機（開発や乱獲による危機）</b>
 <br>　　森林伐採や農地転用、宅地造成、河川・海岸の直線化や固定化、埋め立て等で生物の生息・生育環境が破壊されることにより、多くの生物の個体数の減少につながっています。
 <p><img src="https://github.com/yamakou9/koko/blob/main/img1.jpeg?raw=true" alt="キンラン" style="width:450px;height:300px;">
 <p><b>　第2の危機（自然環境に対する働きかけの縮小による危機）</b>
