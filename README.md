@@ -21,10 +21,10 @@
 <br><p>森林伐採や農地転用、宅地造成、河川・海岸の直線化や固定化、埋め立て等で生物の生息・生育環境が破壊されることにより、多くの生物の個体数の減少につながっています。</p></div>
 <img src="https://github.com/yamakou9/koko/blob/main/img1.jpeg?raw=true" alt="キンラン" style="width:450px;height:300px;">
 <p><div align="center"><b>第2の危機（自然環境に対する働きかけの縮小による危機）</b>
-<br>　　生活環境の変化とともに雑木林や草地が利用されなくなったことで生態系のバランスが崩れ、里地里山の生物が絶滅の危機に瀕しています。
+<br><p>生活環境の変化とともに雑木林や草地が利用されなくなったことで生態系のバランスが崩れ、里地里山の生物が絶滅の危機に瀕しています。</p>
 <img src="https://github.com/yamakou9/koko/blob/main/img2.jpeg?raw=true" alt="林" style="width:450px;height:300px;">
 <p><div align="center"><b>第3の危機（外来種や化学物質などの持ち込みに危機）</b>
-<br>　　外来種が侵入することにより、在来種の生息・生育環境が奪われたり、捕食されたりすることで、生態系のバランスが崩れる等の問題が生じています。
+<br>　　<p>外来種が侵入することにより、在来種の生息・生育環境が奪われたり、捕食されたりすることで、生態系のバランスが崩れる等の問題が生じています。</p>
 <img src="https://github.com/yamakou9/koko/blob/main/img3.jpeg?raw=true" alt="ヤンバルクイナ" style="width:450px;height:300px;">
 <p><div align="center"><b>　第4の危機（地球環境の変化による危機）</b>
 <br>　　地球温暖化による気温や海面の上昇によって、様々な生物の分布地域や植物の開花時期、昆虫の発生時期等に変化が生じると考えられています。
