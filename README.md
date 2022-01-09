@@ -14,7 +14,7 @@
 <br>恐竜時代には1000年に1種だった生物の絶滅が今では1年に4万種以上という報告もあり、そのスピードが問題視されています。
 <br>生態系は様々な生き物によってバランスが保たれているため、特定の種が絶滅すると、生態系のバランスが崩れ、ほかの種にも悪影響を及ぼしてしまいます。
 <br>このままのスピードで生き物が絶滅していくといずれは人類も存亡の危機に直面することになります。 <p>
-<img src="https://github.com/yamakou9/koko/blob/main/img10.jpeg?raw=true" alt="種の絶滅速度" style="width:550px;height:350px;">
+<img src="https://github.com/yamakou9/koko/blob/main/img9.jpeg?raw=true" alt="種の絶滅速度" style="width:550px;height:350px;">
 <br>　　　　　　出典：ノーマン・マイヤーズ著「沈みゆく箱舟」（1981）<p>
 <h2>「人間がもたらしている生物多様性の4つの危機」</h2><p>
 <p><div style="text-align: center"><b>　第1の危機（開発や乱獲による危機）</b>
